@@ -1,0 +1,3 @@
+# phaser-global
+
+with mock
